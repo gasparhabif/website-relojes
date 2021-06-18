@@ -1,0 +1,35 @@
+#logo {
+    background-image: url('../img/logo-name.jpg');
+    color: black;
+    height: 381px !important;
+    width: 409px !important;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 22px;
+    max-height: 100px;
+    position: relative;
+    top: 155px;
+    right: 35px;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    position: relative;
+    top: 95px;
+    left: 35px;
+}
+
+a {
+    height: 0;
+}
+
+a:hover {
+    color: black !important;
+    text-decoration: none !important;
+}
