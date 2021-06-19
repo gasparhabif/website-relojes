@@ -1,0 +1,29 @@
+body {
+    border-radius: 3px;
+    border: 7px double #0B6261;
+    color: #83ADAC;
+}
+
+h4 {
+    margin: 0;
+}
+
+h6 {
+    margin: 0;
+    white-space: pre-line !important;
+    font-size: 1em;
+}
+
+.background {
+    height: 90vh;
+    width: 62.5vw;
+    background-color: #002524;
+    position: fixed !important;
+    top: 5vh !important;
+}
+
+.watch-img {
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 38vh;
+}

@@ -16,6 +16,17 @@ a:hover {
   text-decoration: none !important;
 }
 
+.footer-menu a:hover {
+  color: white !important;
+  text-decoration: underline white !important;
+}
+
+.footer-menu{
+  position: fixed;
+  bottom: 30px;
+  left: 10px;
+}
+
 .button-clave {
   max-height: 5vh;
   height: 37px;

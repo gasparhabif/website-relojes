@@ -20,23 +20,12 @@ p {
     text-shadow: 0px 5px 30px rgba(0, 0, 0, 1);
 }
 
-.footer-menu a:hover {
-    color: white !important;
-    text-decoration: underline white !important;
-}
-
-.footer-menu{
-    position: fixed;
-    bottom: 30px;
-    left: 10px;
-}
-
 .carousel {
     height: 70vh;
     width: 60vw;
     background-color: #002524;
     position: fixed !important;
-    top: 175px !important;
+    top: 22vh !important;
 }
 
 .carousel-inner {
