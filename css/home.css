@@ -10,3 +10,9 @@ body {
     resize: both;
     height: 70vh;
 }
+
+.footer-actions{
+    position: fixed;
+    bottom: 10px;
+    right: 40px;
+}

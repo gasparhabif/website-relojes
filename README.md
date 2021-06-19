@@ -1,0 +1,1 @@
+https://fonts.google.com/specimen/Playfair+Display?category=Serif&preview.text=Relojes%20de%20Conecci%C3%B3n&preview.text_type=custom#standard-styles
