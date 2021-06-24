@@ -1,0 +1,88 @@
+body {
+    border-radius: 3px;
+    border: 7px double #0B6261;
+    color: #7EC1C3;
+    white-space: pre-line !important;
+}
+
+.play {
+    background-color: transparent;
+    background-image: url("../img/music.png");
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-width: 0;
+}
+
+.head-container {
+    position: fixed;
+    z-index: 2 !important;
+    top: 0;
+    left: 250px;
+}
+
+.head-container h1 {
+    font-weight: 500;
+    position: relative;
+}
+
+.head-container button {
+    position: inherit;
+    left: 550px;
+    top: 14vh
+}
+
+.info-container {
+    position: fixed;
+    top: 30vh;
+    left: 80px;
+}
+
+.codigo {
+    font-size: 14px;
+    line-height: 10px;
+}
+
+.info-principal {
+    font-size: 22px;
+    line-height: 20px;
+}
+
+.info-secundaria {
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.info-garantia {
+    font-size: 12px;
+    line-height: 12px;
+}
+
+.carousel {
+    height: 70vh;
+    width: 45vw;
+    background-color: #000;
+    position: fixed !important;
+    top: 12vh !important;
+    z-index: 1 !important;
+}
+
+.carousel-inner {
+    position: fixed;
+    top: inherit;
+    width: inherit;
+    height: inherit;
+}
+
+.carousel-item {
+    position: absolute !important;
+    top: 0;
+}
+
+.carousel-item img {
+    position: absolute;
+    left: 22%;
+    right: 22%;
+    top: 10%;
+}
