@@ -1,0 +1,22 @@
+body {
+    border-radius: 3px;
+    border: 7px double #0B6261;
+    color: #7EC1C3;
+}
+
+h1 {
+    line-height: 20px;
+}
+
+h3 {
+    line-height: 10px;
+}
+
+.icon {
+    width: 36px;
+}
+
+.contact-container {
+    position: relative;
+    top: -10vh;
+}
