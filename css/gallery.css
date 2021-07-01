@@ -1,0 +1,35 @@
+body {
+    border-radius: 3px;
+    border: 7px double #0B6261;
+}
+
+h5 {
+    margin: 0;
+    line-height: 0 !important;
+}
+
+p {
+    font-size: 1.5vh !important;
+}
+
+img {
+    height: 175px;
+}
+
+.watch-info {
+    color: white;
+    text-align: center;
+}
+
+.gallery {
+    top: -40vh;
+    height: 100vh;
+}
+
+.gallery-col {
+    height: 250px !important;
+}
+
+.gallery-col a {
+    height: 250px !important;
+}
