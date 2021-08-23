@@ -22,14 +22,18 @@ img {
 }
 
 .gallery {
-    top: -40vh;
-    height: 100vh;
+    /* top: -40vh;
+    height: 1vh; */
 }
 
 .gallery-col {
-    height: 250px !important;
+    height: 150px !important;
 }
 
 .gallery-col a {
-    height: 250px !important;
+    height: 175px !important;
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: center;
+    margin: 15px !important;
 }

@@ -23,7 +23,8 @@ p {
 .carousel {
     height: 70vh;
     width: 60vw;
-    background-color: #002524;
+    /* background-color: #002524; */
+    background-color: #0B6261;
     position: fixed !important;
     top: 22vh !important;
 }
