@@ -20,6 +20,12 @@ h2 {
     font-family: 'Playfair Display', serif;
     font-size: 16px;
     position: relative;
-    top: 95px;
-    left: 35px;
+    top: 85px;
+    left: 45px;
+}
+
+h6 {
+    font-size: 14px; 
+    color: #C2C8C9;
+    margin-top: 30px
 }
